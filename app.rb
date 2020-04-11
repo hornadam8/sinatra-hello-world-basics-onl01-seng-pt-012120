@@ -1,6 +1,6 @@
 class App < Sinatra::Base
 
-def get '/'
+get '/' do
 
 
 end
